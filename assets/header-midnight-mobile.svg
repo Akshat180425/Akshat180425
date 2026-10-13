@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 590" role="img" aria-labelledby="title desc">
+<title id="title">Akshat Bawa — a mind for logic, a life of wonder</title>
+<desc id="desc">Mathematics and Computing at IIT Ropar, Class of 2027. Silver typography and an orbital drawing on midnight blue.</desc>
+<defs>
+  <linearGradient id="night" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#091320"/><stop offset=".6" stop-color="#101f33"/><stop offset="1" stop-color="#1d3650"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#7195b6" stop-opacity=".18"/><stop offset="1" stop-color="#7195b6" stop-opacity="0"/></radialGradient>
+  <linearGradient id="silver"><stop stop-color="#f1f5f9"/><stop offset=".55" stop-color="#cad7e4"/><stop offset="1" stop-color="#9fb4ca"/></linearGradient>
+</defs>
+<rect width="720" height="590" rx="12" fill="url(#night)"/>
+<circle cx="580" cy="340" r="230" fill="url(#halo)"/>
+<rect x="16" y="16" width="688" height="558" rx="4" fill="none" stroke="#99afc7" stroke-opacity=".2"/>
+<text x="46" y="76" fill="#a8bbce" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="3">A PERSONAL INDEX</text>
+<path d="M46 109H82" stroke="#a8bbce"/>
+<text x="41" y="206" fill="url(#silver)" font-family="Georgia, 'Times New Roman', serif" font-size="84" letter-spacing="-3">Akshat Bawa<tspan fill="#7e9cba">.</tspan></text>
+<g font-family="Georgia, 'Times New Roman', serif" font-size="36">
+  <text x="46" y="282" fill="#d2dce6">A mind for logic.</text>
+  <text x="46" y="333" fill="#a6bbd0" font-style="italic">A life of wonder.</text>
+</g>
+<g transform="translate(574 358) scale(.62)"><g fill="none" stroke="#acc1d5">
+  <circle r="132" stroke-opacity=".26"/>
+  <circle r="113" stroke-opacity=".15"/>
+  <ellipse rx="132" ry="43" transform="rotate(-34)" stroke-opacity=".6"/>
+  <ellipse rx="46" ry="132" transform="rotate(-34)" stroke-opacity=".25"/>
+  <path d="M-151 0H151M0-151V151" stroke-opacity=".18"/>
+  <path d="M0-78L78 0 0 78-78 0Z" stroke-opacity=".35"/>
+  <circle r="5" fill="#d2dfeb" stroke="none"/>
+  <circle cx="104" cy="-82" r="7" fill="#e4edf5" stroke="none"/>
+  <circle cx="-73" cy="109" r="3" fill="#91a9c0" stroke="none"/>
+  <path d="M-8-162H8M0-170V-154" stroke-opacity=".65"/>
+</g></g>
+<path d="M46 458H674" stroke="#91abc5" stroke-opacity=".25"/>
+<g fill="#b8c8d8" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="1.7">
+  <text x="46" y="505">MATHEMATICS &amp; COMPUTING</text>
+  <text x="46" y="547">IIT ROPAR · CLASS OF 2027</text>
+</g>
+</svg>
